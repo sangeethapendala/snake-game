@@ -10,15 +10,15 @@ The objective of the game is to eat as many apples as possible without colliding
 You can control the direction of the snake using the arrow keys on your keyboard:
 
 Up: Press the up arrow key to move the snake upwards.<br>
-Down: Press the down arrow key to move the snake downwards.
-Left: Press the left arrow key to move the snake to the left.
-Right: Press the right arrow key to move the snake to the right.
+Down: Press the down arrow key to move the snake downwards.<br>
+Left: Press the left arrow key to move the snake to the left.<br>
+Right: Press the right arrow key to move the snake to the right.<br>
 
-##Built With
+## Built with
 HTML
 CSS
 JavaScript
 
-##Acknowledgements
+## Acknowledgements
 This game was inspired by the classic Snake game that was popular in the late 1990s. Thanks to the developers of that game for providing the inspiration for this project.
 
