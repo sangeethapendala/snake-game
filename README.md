@@ -1,2 +1,4 @@
 # snake-game
-snake game using HTML,CSS and JavaScript .
+This is a implementation of the Snake game using HTML,CSS and JavaScript.the game is controlled using arrow keys on the keyboard.
+
+
