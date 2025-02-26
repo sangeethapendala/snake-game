@@ -15,9 +15,12 @@ Left: Press the left arrow key to move the snake to the left.<br>
 Right: Press the right arrow key to move the snake to the right.<br>
 
 ## Built with
-HTML
-CSS
-JavaScript
+<ul>
+  <li>HTML </li>
+  <li>CSS </li>
+  <li>JavaScript </li>
+</ul>
+
 
 ## Acknowledgements
 This game was inspired by the classic Snake game that was popular in the late 1990s. Thanks to the developers of that game for providing the inspiration for this project.
