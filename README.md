@@ -9,7 +9,7 @@ The objective of the game is to eat as many apples as possible without colliding
 
 You can control the direction of the snake using the arrow keys on your keyboard:
 
-Up: Press the up arrow key to move the snake upwards.
+Up: Press the up arrow key to move the snake upwards.<br>
 Down: Press the down arrow key to move the snake downwards.
 Left: Press the left arrow key to move the snake to the left.
 Right: Press the right arrow key to move the snake to the right.
